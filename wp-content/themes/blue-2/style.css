@@ -1,0 +1,12 @@
+/*
+Theme Name:     Blue 2
+Description:    child theme
+Author:         sanaaa18
+Template:       hello-elementor
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+header a,#content a{
+    color: #3626a9;
+}
